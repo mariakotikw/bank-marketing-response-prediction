@@ -1,0 +1,11 @@
+data/raw/*
+data/processed/*
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.env
+*.pkl
+*.joblib
+
+!data/raw/.gitkeep
+!data/processed/.gitkeep
